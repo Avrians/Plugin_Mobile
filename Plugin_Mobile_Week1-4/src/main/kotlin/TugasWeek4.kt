@@ -5,7 +5,7 @@ fun main(){
         for (b in 1..a) {
             print(" $b")
         }
-        println("\n")
+        print("\n")
     }
 
     //soal 2
