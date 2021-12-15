@@ -9,6 +9,10 @@ fun main(){
     }
 
     //soal 2
-    var angka = 2
+    var nilai = 2
+    var pangkat = 5
+    var hasil: Double
+    hasil = Math.pow(nilai.toDouble(), pangkat.toDouble())
+    println("\nhasil dari $nilai pangkat $pangkat\n"+hasil)
 
 }
