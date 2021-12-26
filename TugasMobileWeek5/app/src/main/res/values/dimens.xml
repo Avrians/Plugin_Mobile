@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp8">8</dimen>
+    <dimen name="dp75">75</dimen>
+    <dimen name="sp16">16sp</dimen>
+    <dimen name="sp25">25sp</dimen>
+    <dimen name="dp150">150</dimen>
+    <dimen name="dp100">100</dimen>
+    <dimen name="dp85">85</dimen>
+    <dimen name="dp5">5</dimen>
+</resources>
